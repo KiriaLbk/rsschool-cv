@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    }
+    main div {
+        margin: 0 40px;
+    }
+    main {
+    background: white;
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 20px 0 20px;
+    box-shadow: -7px 0px 14px -5px rgba(0,0,0,0.75);
+    }
+    
+    a {
+    text-decoration: none;
+    }
+    
+    p,a,li {
+    font-family: Arial, sans-serif;
+    }
+    
