@@ -11,3 +11,15 @@ I am living in Minsk,but I was born in Luninec.I study at the Belarusian Nationa
 - JS
 - HTML
 - CSS
+## ***Code example***
+```
+function isPalindrome(line) {
+    return (typeof line=='number') ? (String(line)==String(line).split('').reverse().join('')) ? true : false : (line==line.split('').reverse().join('')) ?  true : false;
+}
+```
+## ***Experience***
+- [Codewars](https://www.codewars.com/users/KiriaLbk)
+## ***Education***
+[Adukar](https://adukar.by/)
+## ***English***
+**Pre-Intermediate**
